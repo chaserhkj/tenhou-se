@@ -1,0 +1,17 @@
+{
+    "ver": "1.0",
+    "se": {
+        "25":{"url":"https://tenhou-se.github.chaserhkj.me/res/maid/act_pon.wav"},
+        "26":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_pon.wav"},
+        "27":{"url":"https://tenhou-se.github.chaserhkj.me/res/maid/act_kan.wav"},
+        "28":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_kan.wav"},
+        "29":{"url":"https://tenhou-se.github.chaserhkj.me/res/maid/act_chi.wav"},
+        "30":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_chi.wav"},
+        "31":{"url":"https://tenhou-se.github.chaserhkj.me/res/maid/act_rich.wav"},
+        "32":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_rich.wav"},
+        "33":{"url":"https://tenhou-se.github.chaserhkj.me/res/maid/act_ron.wav"},
+        "34":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_ron.wav"},
+        "35":{"url":"https://tenhou-se.github.chaserhkj.me/res/maid/act_tumo.wav"},
+        "36":{"url":"https://tenhou-se.github.chaserhkj.me/res/chuni/act_tumo.wav"}
+    }
+}
